@@ -1,0 +1,22 @@
+{
+    "greeting": "Witamy w nakładce terminala HelgxCmd 0.1.0",
+    "options": "Dostępne opcje to:",
+    "file_manager": "1. Menedżer plików",
+    "upgrade": "2. Zaktulizuj system",
+    "package": "3. Zainstaluj pakiet",
+    "exit": "4. Wyjście",
+    "choice": "Wybierz opcje: ",
+    "farewell": "Do widzenia",
+    "invalid_choice": "Nieprawidłowy wybór. Spróbuj ponownie.",
+    "ls": "1. Pokaż pliki",
+    "cd": "2. Zmień katalog",
+    "mkdir": "3. Stwórz katalog",
+    "mkfile": "4. Stwórz/edytuj plik",
+    "rm": "5. Usuń katalog/plik",
+    "sudo_rm": "6. Usuń katalog/plik jako administrator",
+    "exit2": "7. Wyjście",
+    "name_package": "Wprowadź nazwę pakietu: ",
+    "name_dir": "Wprowadź nazwę katalogu: ",
+    "name_file": "Wprowadź nazwę pliku: ",
+    "name_dir_file": "Wprowadź nazwę katalogu/pliku: "
+}

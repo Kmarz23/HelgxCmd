@@ -1,0 +1,22 @@
+{
+    "greeting": "Welcome to the HelgxCmd terminal overlay 0.1.0",
+    "options": "The available options are:",
+    "file_manager": "1. File Manager",
+    "upgrade": "2. Update system",
+    "package": "3. Insatll package",
+    "exit": "4. Exit",
+    "choice": "Select options: ",
+    "farewell": "Goodbye",
+    "invalid_choice": "Invalid choice. Please try again.",
+    "ls": "1. Show files",
+    "cd": "2. Change directory",
+    "mkdir": "3. Create a directory",
+    "mkfile": "4. Create/edit a file",
+    "rm": "5. Remove directory/file",
+    "sudo_rm": "6. Remove directory/file as administrator",
+    "exit2": "7. Exit",
+    "name_package": "Enter a package name: ",
+    "name_dir": "Enter a directory name: ",
+    "name_file": "Enter a file name: ",
+    "name_dir_file": "Enter a directory/file name: "
+}
